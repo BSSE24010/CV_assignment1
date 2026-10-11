@@ -9,7 +9,7 @@ Writes the frame number on top of the box with `cv2.putText`
 Saves the processed video as `output.mp4` with `cv2.VideoWriter`
 
 ## Files
-`main.py` - the script
+`a1_video.py` - the script
 `input.mp4` - original video
 `output.mp4` - processed video
 `requirements.txt` - required packages
